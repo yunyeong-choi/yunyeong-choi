@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=capsule%20render&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yunyeong-choi&fontSize=70&animation=twinkling)
 <!--
 **yunyeong-choi/yunyeong-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
