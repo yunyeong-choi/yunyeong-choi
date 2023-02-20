@@ -16,7 +16,7 @@ Major : **Mathematics & Statistics**<br> Job : **Data Analysis** <br><br>
   ![AWS badge](https://img.shields.io/badge/-%20AWS-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7)
   ![Qgis badge](https://img.shields.io/badge/-%20Qgis-%23F7DF1E?style=plastic-square&logo=Qgis&color=DAE2B6) <br>
   
-<a href="https://github.com/yunyeong-choi"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyeong-choi&layout=compact&theme=prussian&hide_border=true" /></a><br><br>
+<br><br>
   
   
 ### :pushpin: Projects 
