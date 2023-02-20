@@ -14,7 +14,7 @@ Major : **Mathematics & Statistics**<br> Job : **Data Analysis** <br><br>
   ![mysql badge](https://img.shields.io/badge/-%20MySQL-%23F7DF1E?style=plastic-square&logo=mysql&logoColor=white&color=0F3460)
   ![Tableau badge](https://img.shields.io/badge/-%20Tableau-%23F7DF1E?style=plastic-square&logo=Tableau&color=FFD8A9)
   ![AWS badge](https://img.shields.io/badge/-%20AWS-%23F7DF1E?style=plastic-square&logo=amazonaws&logoColor=EF5B0C&color=FEF9A7)
-  ![Qgis badge](https://img.shields.io/badge/-%20Qgis-%23F7DF1E?style=plastic-square&logo=Qgis&color=DAE2B6) <br>
+  ![Qgis badge](https://img.shields.io/badge/-%20Qgis-%23F7DF1E?style=plastic-square&logo=Qgis&color=DAE2B6)
   
 <br><br>
   
